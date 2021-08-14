@@ -47,10 +47,8 @@ body {
   background-color: white;
 }
 
-.icons-skills {
-  color: black;
-  position: relative;
-  font-size: 100px;
-  border: 10px solid white;
-  background-color: white;
+.skill-icons {
+  display: flex;
+  justify-content: space-around;
+  height: 150px;
 }
