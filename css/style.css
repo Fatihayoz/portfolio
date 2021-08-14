@@ -6,3 +6,51 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
+.about {
+  background-color: #f2f2f2;
+}
+
+.about-text {
+  text-align: justify;
+}
+
+.p-about-text {
+  text-align: center;
+}
+
+.about-mix {
+  display: flex;
+  justify-content: space-around;
+}
+
+.line {
+  border-top: 5px solid black;
+  max-width: 250px;
+  margin: 25px auto;
+}
+
+.icon-gray {
+  color: black;
+  position: relative;
+  bottom: 55px;
+  font-size: 40px;
+  border: 10px solid #f2f2f2;
+  background-color: #f2f2f2;
+}
+
+.icon-white {
+  color: black;
+  position: relative;
+  bottom: 55px;
+  font-size: 40px;
+  border: 10px solid white;
+  background-color: white;
+}
+
+.icons-skills {
+  color: black;
+  position: relative;
+  font-size: 100px;
+  border: 10px solid white;
+  background-color: white;
+}
