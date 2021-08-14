@@ -52,3 +52,7 @@ body {
   justify-content: space-around;
   height: 150px;
 }
+
+.projects {
+  background-color: #f2f2f2;
+}
